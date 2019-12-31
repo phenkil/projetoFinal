@@ -19,7 +19,7 @@ p{
     margin-right: 0;
     margin-botton: 0.5em;    
 }
-div#menu{
+.menu{
     border: 0.1em dashed #fff;
     text-align: initial;
     text-indent: 1.5em;
@@ -44,7 +44,7 @@ nav ul li a {
 nav ul li a:hover { 
         background-color: black; 
 }
-div#main{
+.main{
     border: none;
     width: 900px;
     margin: 0 auto;
