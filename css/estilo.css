@@ -9,11 +9,11 @@ h1, h2{
     font-weight: 400;
 }
 h1{
-    font-size: 38px;
+    font-size: 38em;
 }
 p{
     font-weight: 300;
-    font-size: 22px;
+    font-size: 22em;
     margin-top: 0;
     margin-left: 0.8em;
     margin-right: 0;
@@ -30,33 +30,33 @@ nav {
 }
 nav ul { list-style:none; 
         margin:0; 
-        padding:4px 
+        padding:4em; 
 }
 nav ul li { 
         display:inline-block 
 }
 nav ul li a { 
-            font-size: 22px; 
+            font-size: 22em; 
             text-decoration: none; 
             color: #FFF; 
-            padding: 4px 20px 
+            padding: 4em 20em;
 }
 nav ul li a:hover { 
         background-color: black; 
 }
 .main{
     border: none;
-    width: 900px;
+    width: 900em;
     margin: 0 auto;
 }
 .imagen{
  float:left;
- padding:3px;
+ padding:3em;
  margin-bottom:5em;
 }
 footer{
     font-weight: 400;
-    font-size: 20px;
+    font-size: 20em;
     text-align: center;
-    height: 300px;
+    height: 300em;
 }
